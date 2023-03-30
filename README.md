@@ -15,17 +15,23 @@ The project aims to develop a text summarizer using natural language processing 
   
 
 ## Dataset used
-//Could also include reasoning for the choice of dataset//
+The dataset used is an article of around 5000 words, obtained from Wikipedia, in .txt format that is uploaded in the session storage of the colab notebook for it to be read by the model.
 
 ## Performance and Results
-//Results. Graphs or plots if possible/ necessary. Conclusion//
+The model summarises a dataset containing around 5000 words to produce an accurate summary of 340 words.
+
+The current model that we have presented is based on word and sentence frequency along with considering the presence of stopwords. It could further be improvised by incorporating the concept of word embeddings, where the meaning of the word is given better importance.
 
 ## References
+https://en.wikipedia.org/wiki/Management
+
+https://www.analyticsvidhya.com/blog/2022/02/a-flask-web-app-for-automatic-text-summarization-using-sbert/
+
+https://pub.towardsai.net/a-step-by-step-approach-to-building-a-text-summarization-webapp-in-python-from-scratch-5d6754306f3b
 
 ## Project Mentors
 
 ## Project Mentees
-
   
 
 
