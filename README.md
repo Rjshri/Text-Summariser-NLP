@@ -24,7 +24,8 @@ The dataset used is an article of around 5000 words, obtained from Wikipedia, in
 ## Performance and Results
 The model summarises a dataset containing around 5000 words to produce an accurate summary of 340 words.
 
-The current model that we have presented is based on word and sentence frequency along with considering the presence of stopwords. It could further be improvised by incorporating the concept of word embeddings, where the meaning of the word is given better importance.
+The current model that we have presented is based on word and sentence frequency along with considering the presence of stopwords. It could further be improvised by incorporating the concept of word embeddings, where the meaning of the word is given better importance. The model could also be made capable to handle larger datasets.
+
 
 ## References
 Dataset:  https://en.wikipedia.org/wiki/Management
@@ -34,8 +35,14 @@ Word-sentence co-ranking for automatic extractive text summarization ,Changjian 
 Assessing sentence scoring techniques for extractive text summarization, Rafael Ferreira a, Luciano de Souza Cabral a, Rafael Dueire Lins a, Gabriel Pereira e Silva a, Fred Freitas a, George D.C. Cavalcanti a, Rinaldo Lima a, Steven J. Simske b, Luciano Favaro c
 
 ## Project Mentors
+  Dinesh:
 
 ## Project Mentees
+  Shishir :
   
-
+  Rajashri Varadaraj :
+  
+  Snehankitha Bhukya :
+  
+  Rishi :
 
