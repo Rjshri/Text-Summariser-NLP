@@ -27,11 +27,11 @@ The model summarises a dataset containing around 5000 words to produce an accura
 The current model that we have presented is based on word and sentence frequency along with considering the presence of stopwords. It could further be improvised by incorporating the concept of word embeddings, where the meaning of the word is given better importance.
 
 ## References
-https://en.wikipedia.org/wiki/Management
+Dataset:  https://en.wikipedia.org/wiki/Management
 
-https://www.analyticsvidhya.com/blog/2022/02/a-flask-web-app-for-automatic-text-summarization-using-sbert/
+Word-sentence co-ranking for automatic extractive text summarization ,Changjian Fang, Dejun Mu, Zhenghong Deng, Zhiang Wu.
 
-https://pub.towardsai.net/a-step-by-step-approach-to-building-a-text-summarization-webapp-in-python-from-scratch-5d6754306f3b
+Assessing sentence scoring techniques for extractive text summarization, Rafael Ferreira a, Luciano de Souza Cabral a, Rafael Dueire Lins a, Gabriel Pereira e Silva a, Fred Freitas a, George D.C. Cavalcanti a, Rinaldo Lima a, Steven J. Simske b, Luciano Favaro c
 
 ## Project Mentors
 
