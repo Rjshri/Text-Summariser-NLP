@@ -40,14 +40,14 @@ Word-sentence co-ranking for automatic extractive text summarization ,Changjian 
 Assessing sentence scoring techniques for extractive text summarization, Rafael Ferreira a, Luciano de Souza Cabral a, Rafael Dueire Lins a, Gabriel Pereira e Silva a, Fred Freitas a, George D.C. Cavalcanti a, Rinaldo Lima a, Steven J. Simske b, Luciano Favaro c
 
 ## Project Mentors
-  Dinesh:
+  [Dinesh](https://github.com/dinesh-0808)
 
 ## Project Mentees
-  Shishir :
+  [Shishir](https://github.com/Sheldon-Cooper-314)
   
-  Rajashri Varadaraj :
+  [Rajashri](https://github.com/Rjshri)
   
-  Snehankitha Bhukya :
+  [Snehankitha](https://github.com/SnehankithaBhukya)
   
-  Rishi :
+  [Rishi](https://github.com/rishi-diwaker1)
 
