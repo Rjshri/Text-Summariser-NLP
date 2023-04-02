@@ -13,10 +13,15 @@ Text summarization using NLP involves the automatic generation of a shortened ve
 
 To achieve this, various NLP techniques can be employed, such as text segmentation, part-of-speech tagging, named entity recognition, word embedding, and machine learning algorithms such as clustering and classification.
 ## Architecture
-//Diagrams with canva showing various processes of NLP used eg: Preprocessing->Stemming->Lemmatisation,
-  Mathematics involved ie maybe wordvectors used and the theory behind them.
-  Diagrams to be explained in depth//
-  
+
+The set of ordered stages one should go through from a labeled dataset to creating a classifier that can be applied to new samples is called the NLP pipeline.
+The various processes of NLP used are Data Collection -> Text Cleaning -> Preprocessing -> Feature Engineering -> Modeling.
+
+Data Collection: Our text summariser uses a publicly available dataset saved into a text file which is then read by the program.
+
+Preprocessing: It involves text cleaning (removal of symbols, unnecessary spaces and brackets) as well as basic preprocessing where word and sentence tokenization stop word removal and lower casing is done. 
+
+Feature engineering and Modeling: Converting text data to numerical data is feature engineering. The sentences that form a part of the summary in our model are decided using sentence scores which inturn depend on word frequencies. The sentences which have higher sentence scores are given priority to be added to the summary.  
 
 ## Dataset used
 The dataset used is an article of around 5000 words, obtained from Wikipedia, in .txt format that is uploaded in the session storage of the colab notebook for it to be read by the model.
